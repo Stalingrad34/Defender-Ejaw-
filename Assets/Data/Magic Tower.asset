@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11099619b60500740a601589c21654f9, type: 3}
+  m_Name: Magic Tower
+  m_EditorClassIdentifier: 
+  prefabTower: {fileID: 1725094433985686750, guid: 978a6e348aa6cf6408a4ead13bc5dd80,
+    type: 3}
+  prefabBullet: {fileID: 5038289823904236317, guid: 7e406ad350d4d39489981435437907da,
+    type: 3}
+  _gameData: {fileID: 11400000, guid: 879153ac7f33b654d9ac69b266e748c2, type: 2}
+  _towerType: 1
+  _buildPrice: 100
+  _damage: 20
+  _range: 30
+  _shootInterval: 1

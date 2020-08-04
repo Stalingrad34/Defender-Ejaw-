@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8603a29c5d7d50f4ea9b797af693b644, type: 3}
+  m_Name: Game Data
+  m_EditorClassIdentifier: 
+  Enemys:
+  - {fileID: 7699535960172509054, guid: aba17fdbde36aed46900975d26d34e53, type: 3}
+  - {fileID: 4308529195071072748, guid: 81b2caab96ab61b4cacb10d22d0de9d3, type: 3}
+  _waves: 2
+  _wavesDuration: 10
+  _health: 100
+  _coins: 600
